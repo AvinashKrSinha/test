@@ -1,0 +1,10 @@
+[
+    {
+        "source": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+        "content": "The Eiffel Tower is located in Paris."
+    },
+    {
+        "source": "https://www.bbc.co.uk/news",
+        "content": "The moon landing was in 1969."
+    }
+]
